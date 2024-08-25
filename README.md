@@ -16,8 +16,7 @@ The **Attendance Monitoring System** is a robust application designed to simplif
 ## Technologies Used
 
 - **Backend:**
-  - Node.js
-  - Express.js
+  - flask 
   - MongoDB (Mongoose)
   
 - **Frontend:**
